@@ -1,0 +1,1 @@
+# c-tutorial from [this video]("https://youtu.be/Bz4MxDeEM6k").
