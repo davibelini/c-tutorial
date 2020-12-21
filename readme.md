@@ -1,1 +1,2 @@
-# c-tutorial from [this video]("https://youtu.be/Bz4MxDeEM6k").
+# c-tutorial 
+> ### From [this video]("https://youtu.be/Bz4MxDeEM6k").
